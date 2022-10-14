@@ -1,0 +1,1 @@
+bcdbd19e9cc27eb8aa29f80a38dfbc60ae0591bbb303e69a9714464400f9ead7  ./target/wasm32-unknown-unknown/release/cw20_safemoon.wasm
